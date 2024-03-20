@@ -7,7 +7,7 @@
 
 
 <details align="center">                            
-<summary>My Favorite Jobs</summary>
+<summary align="center">My Favorite Jobs</summary>
 
 | Rank |   Skills   |
 |-----:|------------|
