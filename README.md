@@ -21,8 +21,9 @@
 </details>
 
 <details>
+  <summary>😄</summary>
   <picture>
-    <source srcset="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1017348731W8333H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/software-developer-keep-calm-and-keep-coding-sticker.jpg"> 
+    <img alt="Keep on coding" src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1017348731W8333H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/software-developer-keep-calm-and-keep-coding-sticker.jpg">
   </picture>
 </details>
 
