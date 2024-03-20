@@ -4,6 +4,10 @@
   <a href="https://welkwavestudios.com/">
     <img alt="portfolio site" title="WelkWaveStudios" src="https://img.shields.io/badge/Portfolio-WelkWaveStudios-cyan"/>
 </p>
+<p>
+  <a href=""/>
+    <img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+</p>
 
 <details>                            
 <summary>My Favorite Jobs</summary>
