@@ -12,18 +12,19 @@
 <details>                            
 <summary>My Favorite Jobs</summary>
 
+<div align="center">
 | Rank |   Skills   |
 |-----:|------------|
 |     1| Design     |
 |     2| UI/UX Dev  |
 |     3| Front End  |
-  
+</div>
 </details>
 
 <details>
   <summary>😄</summary>
   <picture>
-    <img alt="Keep on coding" src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1017348731W8333H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/software-developer-keep-calm-and-keep-coding-sticker.jpg">
+    <img align="center" alt="Keep on coding" src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1017348731W8333H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/software-developer-keep-calm-and-keep-coding-sticker.jpg">
   </picture>
 </details>
 
