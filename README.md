@@ -12,7 +12,7 @@
 <summary>My Favorite Jobs</summary>
 
 
-| Rank |   Skills   |
+| Rank |    Jobs    |
 |-----:|------------|
 |     1| Design     |
 |     2| UI/UX Dev  |
