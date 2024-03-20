@@ -4,10 +4,11 @@
 <p align="center">
   <a href="https://welkwavestudios.com/">
     <img alt="portfolio site" title="WelkWaveStudios" src="https://img.shields.io/badge/Portfolio-WelkWaveStudios-cyan"/>
+     <a href="https://www.linkedin.com/in/jesse-welk-2604301a1/"/>
+    <img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jesse-welk-2604301a1/"/>
-    <img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+ 
 </p>
 </div>
 <details>                            
