@@ -2,12 +2,11 @@
 <h3 align="center" color="grey">Have a look at some projects. 😄</h3>
 <p align="center">
   <a href="https://welkwavestudios.com/">
-    <img
+    <img alt="portfolio site" title="WelkWaveStudios" src="https://img.shields.io/badge/Portfolio-WelkWaveStudios-cyan"/>
 </p>
 
-
-<details align="center">                            
-<summary align="center">My Favorite Jobs</summary>
+<details>                            
+<summary>My Favorite Jobs</summary>
 
 | Rank |   Skills   |
 |-----:|------------|
