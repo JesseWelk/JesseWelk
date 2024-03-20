@@ -8,7 +8,6 @@
     <img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
 </p>
 
-
 <details>                            
 <summary>My Favorite Jobs</summary>
 
@@ -27,6 +26,11 @@
     <img  alt="Keep on coding" src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1017348731W8333H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/software-developer-keep-calm-and-keep-coding-sticker.jpg">
   </picture>
 </details>
+
+<h3 align="center">🔧 What I Use 🔨</h3>
+<p>
+  <a href="https://github.com/search?q=user%3AJesseWelk+language%3Anextjs"><img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+</p>
 
 <!--
 **JesseWelk/JesseWelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
