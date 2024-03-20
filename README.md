@@ -28,8 +28,12 @@
 </details>
 
 <h3 align="center">🔧 What I Use 🔨</h3>
-<p>
-  <a href="https://github.com/search?q=user%3AJesseWelk+language%3Anextjs"><img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+<p align="center">
+  <a href="https://github.com/search?q=user%3AJesseWelk+language%3Anextjs"><img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>         
+  <a href="https://github.com/search?q=user%3AJesseWelk+language%3Ahtml"><img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <a href="https://github.com/search?q=user%3AJesseWelk+language%3Acss"><img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <a href="https://github.com/search?q=user%3AJesseWelk+language%3Atailwindcss"><img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <a href="https://github.com/search?q=user%3AJesseWelk+language%3Ajavascript"><img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
 <!--
