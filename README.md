@@ -8,6 +8,10 @@
     <img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
 </p>
 
+<h4 align="center">About Me 😀</h4>
+
+<p>Hi! my names Jesse Welk and I am a passionate front end developer and designer. I'm currently finishing my diploma at BCIT for Digital Design and Development. My goal is to pursue a career in the front end UI/UX design once I graduate. Working with web dev has been a passion of mine for a long time and I'm excited to see what's in store. Thanks for stopping by!</p>
+
 <details>                            
 <summary>My Favorite Jobs</summary>
 
