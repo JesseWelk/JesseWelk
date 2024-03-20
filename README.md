@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Jesse! 👋</h1> 
 <h3 align="center" color="grey">Have a look at some projects. 😄</h3>
 
-<details>
+<details align="right">                            
 <summary>My Best Skills</summary>
 
 | Rank |   Skills   |
@@ -12,6 +12,16 @@
   
 </details>
 
+<details>
+<summary>My Best Skills</summary>
+
+| Rank |   Skills   |
+|-----:|------------|
+|     1| TailwindCSS|
+|     2| HTML       |
+|     3| Javascript |
+  
+</details>
 
 <!--
 **JesseWelk/JesseWelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
